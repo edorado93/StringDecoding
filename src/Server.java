@@ -63,7 +63,7 @@ public class Server {
 	
 	public static void main(String[] args) throws Exception {
 		
-		System.out.println("This is to test out a Pull Request :) ;)");
+		
 		
         new Server(8080).run();
 	}
